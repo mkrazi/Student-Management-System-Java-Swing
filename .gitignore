@@ -1,0 +1,14 @@
+# Ignore build and distribution folders
+/build/
+/dist/
+
+# Ignore compiled class files
+*.class
+
+# Ignore NetBeans private configs
+nbproject/private/
+
+# Ignore backup or temporary files
+*.log
+*.tmp
+*.bak
