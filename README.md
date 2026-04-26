@@ -1,10 +1,10 @@
-#Student Management System (Java Swing)
+## Student Management System (Java Swing)
 
 A desktop-based Student Management System built using **Java Swing** and **MySQL**, designed to simplify and automate the management of student information for educational institutions.
 
 ---
 
-##Overview
+## Overview
 
 The Student Management System provides a centralized platform to store, access, and manage student data. It eliminates manual record-keeping inefficiencies and improves accessibility and decision-making.
 
@@ -20,7 +20,7 @@ The Student Management System provides a centralized platform to store, access, 
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |------------|-------------|
